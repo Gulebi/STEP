@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.todo {
+    padding: 10px 15px;
+    border: 1px solid gray;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
